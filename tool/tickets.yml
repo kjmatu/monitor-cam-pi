@@ -1,0 +1,27 @@
+frontend:
+  - title: html勉強
+    body: https://dotinstall.com/lessons ここのHTMLのところをやる
+  - title: css勉強
+    body: https://dotinstall.com/lessons ここのCSSのところをやる
+  - title: フロントエンドフレームワーク選定
+    body: Vue3 か Solid.js をやってみたい
+  - title: バックエンドのAPIの動作確認
+  - title: デザインを考える
+  - title: センサー情報をテーブルで表示する
+  - title: センサー情報をグラフで表示する
+  - title: 画像情報を表示する
+  - title: 画像情報を更新する
+  - title: 撮影した時刻を表示する
+backend:
+  - title: backend framework選定
+    body: RustのWebAPIフレームワークを選定
+  - title: switch botセンサーから情報を取得する
+  - title: switch botセンサーの情報をWebAPI経由で返す
+  - title: raspbery pi上にRustビルド環境を構築
+  - title: raspbery piに接続したカメラから画像を撮影できることを確認
+    body: Rust用のRaspberryカメラ用APIを使ってやる
+  - title: cameraから画像を取得するAPIを作成
+  - title: どれくらいの頻度でカメラから取得するか検討する
+    body: カメラ撮影頻度を変えられるようにしておく
+  - title: 画像を取得するWebAPIを作成
+  - title: 画像をStreamingで返す方法を調査
